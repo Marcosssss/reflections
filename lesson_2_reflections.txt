@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 git creates an ocult file called .git. you need the repository to keep track of the process of your project.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+Cause you only make the commit of the stage area and in the stage area you only introduce the files in wich you have made a logical change
