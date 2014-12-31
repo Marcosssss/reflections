@@ -13,3 +13,6 @@ Cause a diagram has tree form and the git structure too it's easy to relationate
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A bigger new branch is formed. Cause it's more clear.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros of doing it manually are that if a person does the interpretation, the interpretation error is lessened, but the person could have a human mistake.
